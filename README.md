@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Data Analysis, Data Wrangling and Manipulation, Data Modeling, Predictive Analytics, Business Intelligence**
 
-- 📫 How to reach me **nayidhara55553@gmail.com**
+- 📫 Reach me **nayidhara55553@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
