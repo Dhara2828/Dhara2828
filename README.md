@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhara Nayi</h1>
-<h3 align="center">A passionate Entry-Level Data Scientist from India. Seeking opportunities where I can utilize my analytical, technical and mathematical skills to solve real life problems related to analyzing a big volume of datasets to draw insights that can help with business decisions.</h3>
+<h3 align="center">A passionate Data Analyst from India. Seeking opportunities where I can utilize my analytical, technical and mathematical skills to solve real life problems related to analyzing a big volume of datasets to draw insights that can help with business decisions.</h3>
 
 - 💬 Ask me about **Data Analysis, Data Wrangling and Manipulation, Data Modeling, Predictive Analytics, Business Intelligence**
 
