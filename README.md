@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dhara Nayi</h1>
-<h3 align="center">A passionate Data Analyst from India. Seeking opportunities where I can utilize my analytical, technical and mathematical skills to solve real life problems related to analyzing a big volume of datasets to draw insights that can help with business decisions.</h3>
+<h3 align="center">Hi, I’m Dhara Nayi, a data professional passionate about turning complex datasets into clear, actionable insights. With expertise spanning data cleaning, exploratory analysis, and statistical modeling, I bring a robust analytical approach to solving real-world business problems.
+
+I’m proficient in programming with Python (including Pandas, NumPy, Scikit-learn, and TensorFlow) and SQL (MySQL, PostgreSQL), empowering me to handle everything from data wrangling to building machine learning models. My experience extends to data visualization tools like Tableau, PowerBI, and Matplotlib, enabling me to communicate insights effectively.
+
+I have hands-on knowledge of machine learning techniques—from supervised and unsupervised learning to advanced deep learning frameworks such as TensorFlow and PyTorch—and I’m comfortable working with big data technologies like Hadoop, Spark, and AWS cloud services including S3, EC2, and SageMaker.
+
+In addition, I leverage tools like Git, Docker, Airflow, and Jupyter to create efficient, scalable, and reproducible data workflows. I’m driven by a problem-solving mindset and thrive in Agile project environments.
+
+Feel free to explore my repositories to see my projects and how I apply these skills to deliver impactful data solutions.</h3>
 
 - 💬 Ask me about **Data Analysis, Data Wrangling and Manipulation, Data Modeling, Predictive Analytics, Business Intelligence**
 
-- 📫 Reach me **nayidhara55553@gmail.com**
+- 📫 Reach me **dharanayi28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
